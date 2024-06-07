@@ -13,5 +13,5 @@ int main(){
     cin>>a;
     cout<<a*5 <<'\n';
     cout<<"sad life\n";
-    cout<<"my git";`
+    cout<<"my git hub";`
 }
